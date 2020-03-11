@@ -1,0 +1,3 @@
+src/OsWrapper.o: src/OsWrapper.c include/OsWrapper.h
+
+include/OsWrapper.h:
