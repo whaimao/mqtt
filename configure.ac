@@ -31,4 +31,5 @@ AC_FUNC_MALLOC
 AC_FUNC_REALLOC
 AC_CHECK_FUNCS([clock_gettime ftime gettimeofday memchr memset mkdir rmdir select socket strchr strerror strncasecmp strndup strrchr strstr])
 
+AC_CONFIG_FILES([Makefile])
 AC_OUTPUT
